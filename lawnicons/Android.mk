@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := lawnicons
+LOCAL_MODULE := Lawnicons
 LOCAL_MODULE_TAGS := icons
 LOCAL_SRC_FILES := lawnicons.apk
 LOCAL_CERTIFICATE := PRESIGNED
