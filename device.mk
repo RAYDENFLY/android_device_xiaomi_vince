@@ -350,6 +350,7 @@ PRODUCT_COPY_FILES += \
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
     FlorisBoard
+    Lawnicons
 
 # Public libraries
 PRODUCT_COPY_FILES += \
