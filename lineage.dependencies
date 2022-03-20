@@ -1,0 +1,21 @@
+[
+  {
+    "remote"       : "github",
+    "repository"   : "Yurika-Projects/android_vendor_xiaomi_vince",
+    "target_path"  : "vendor/xiaomi/vince",
+    "branch"       : "12"
+  },
+  {
+    "remote"       : "github",
+    "repository"   : "kutemeikito/android_kernel_xiaomi_vince-4.9",
+    "target_path"  : "kernel/xiaomi/vince",
+    "branch"       : "VinceR"
+  },
+  {
+    "remote"       : "gitlab",
+    "repository"   : "Panchajanya1999/azure-clang",
+    "target_path"  : "prebuilts/clang/host/linux-x86/clang-15",
+    "clone-depth"  : "1",
+    "branch"       : "main"
+  }
+]
