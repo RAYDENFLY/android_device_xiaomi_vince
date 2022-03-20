@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_vince.mk
+    $(LOCAL_DIR)/lineage_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    fluid_vince-user \
-    fluid_vince-userdebug \
-    fluid_vince-eng
+    lineage_vince-user \
+    lineage_vince-userdebug \
+    lineage_vince-eng
